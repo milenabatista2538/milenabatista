@@ -1,20 +1,19 @@
 
-Estilizar a cor de fundo do seu site como o css
+
 body{
 background-color:pink ;
 }
 
-Estilizar o título principal do seu site
+
  h1{
 color:green ;
 font-family: impact;
 background:rgb(3, 68, 90) ;
 }
 
-Estilizar os parágrafos
 p{
 color-scheme: grey;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: grey;
+font: size 25px;;
 background: rgb(4, 47, 61)
 }
